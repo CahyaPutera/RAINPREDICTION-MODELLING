@@ -8,4 +8,4 @@ For dashboard refers to : https://github.com/CahyaPutera/Solver-RainPrediction
 
 Finished **Dashboard** can be viewed on : https://solversociety-rainprediction.herokuapp.com
 
-HTML5 CSS templates by TemplateMo : https://templatemo.com/
+HTML5 CSS templates by TemplateMo : https://templatemo.com
